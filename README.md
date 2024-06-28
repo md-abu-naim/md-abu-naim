@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Abu Naim</h1>
+<h1 align="center">Hi 👋, I'm ABU NAIM</h1>
 <h3 align="center">A passionate web developer from Bangladesh.</h3>
 
 <img align="right" alt="Coading" width='400' src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"></img>
