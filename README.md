@@ -10,7 +10,7 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <a href="https://github.com/md-abu-naim/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=md-abu-naim&theme=react&border=61dafb&hide_border=true" alt="md-abu-naim />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
