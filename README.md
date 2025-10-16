@@ -48,6 +48,5 @@
 </p>
 <p align="center">
   <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png"/>
-  <img src="https://github.com/md-abu-naim/md-abu-naim/blob/main/images/next.jpg"/>
 </p>
 <br/>
