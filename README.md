@@ -3,7 +3,7 @@
 </a>
 
 <h1 align="center">Hi 👋, I'm Mohammad Abu Naim</h1>
-<p align="center">Self-motivated web developer with expertise in React, Node.js, Express.js, MongoDB, JavaScript, HTML, CSS, and mobile-responsive web development. Seeking a challenging position to expand my knowledge and leverage my skills. Driven by the belief that hard work beats talent when talent doesn't work hard.
+<p align="center">Self-driven Full-Stack Web Developer specializing in React, Node.js, Express, MongoDB, and responsive web design. I build modern, scalable, and user-friendly web applications that solve real-world problems. Always eager to learn new technologies, take on challenges, and contribute to meaningful projects. Believer in the philosophy: “Hard work beats talent when talent doesn’t work hard.
 </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
