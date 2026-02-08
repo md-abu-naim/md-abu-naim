@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/md-abu-naim/" target="_blank">
-<img width=100% src="https://github.com/md-abu-naim/md-abu-naim/blob/main/image/Github%20Cover.png" />
+<img width=100% src="https://github.com/md-abu-naim/md-abu-naim/blob/main/image/Banner.png" />
 </a>
 
 <h1 align="center">Hi 👋, I'm Mohammad Abu Naim</h1>
