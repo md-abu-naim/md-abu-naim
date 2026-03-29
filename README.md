@@ -84,11 +84,11 @@ Self-driven Full-Stack Web Developer specializing in React, Next.js, Node.js, Ex
 
 <h2 align="center">📈 Top Projects</h2>
 
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| NatureGlow | React, Node.js, Express, MongoDB, Tailwind, Firebase, JWT | E-commerce platform for organic skincare & beauty products with admin/user dashboards, order management, filters, and modern UI. |
-| ScharHub | React, Node.js, Express, MongoDB, Tailwind, Firebase, Stripe, JWT | Full-stack study platform with dashboards for students, tutors & admin, session booking, notes & rating system. |
-| LINKER (Ongoing) | Next.js, Node.js, Express, MongoDB, Schoket.io, NextAuth, JWT | Social networking platform in development, features include user profiles, posts, timeline, and interactive media sharing similar to Facebook. |
+| Project | Tech Stack | Description | Links |
+|--------|------------|-------------|-------|
+| 🌿 **NatureGlow** | React, Node.js, Express, MongoDB, Tailwind, Firebase, JWT | E-commerce platform for organic skincare & beauty products with admin/user dashboards, order management, filters, and modern UI. | [🌐 Live](https://natureglow-740e8.web.app) • [💻 Code](https://github.com/md-abu-naim/NatureGlow) |
+| 📚 **ScharHub** | React, Node.js, Express, MongoDB, Tailwind, Firebase, Stripe, JWT | Full-stack study platform with dashboards for students, tutors & admin, session booking, notes & rating system. | [🌐 Live](https://scholarhub-98ad5.web.app) • [💻 Code](https://github.com/md-abu-naim/A12-ScholarHub-Client) |
+| 🔗 **LINKER (Ongoing)** | Next.js, Node.js, Express, MongoDB, NextAuth, JWT | Social networking platform in development, features include user profiles, posts, timeline, and interactive media sharing. | [🌐 Live](https://linkerbd.vercel.app) • [💻 Code](https://github.com/md-abu-naim/LINKER) |
 ---
 
 <h2 align="center">💬 Let’s Connect</h2>
