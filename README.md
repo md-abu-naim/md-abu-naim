@@ -62,6 +62,6 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
 </p>
 <p align="center">
-  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,redux,github,git,figma,netlify,vercel" alt="Frontend Frameworks" />
 </p>
 <br/>
