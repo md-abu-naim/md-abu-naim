@@ -1,6 +1,10 @@
 <a href="https://www.linkedin.com/in/md-abu-naim/" target="_blank">
-<img width=100% src="https://github.com/md-abu-naim/md-abu-naim/blob/main/image/Banner.png" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=MOHAMMAD%20ABU%20NAIM&animation=twinkling" />
 </a>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Expert+%7C;Building+Scalable+Web+Solutions+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Mohammad Abu Naim</h1>
 <p align="center">Self-driven Full-Stack Web Developer specializing in React, Node.js, Express, MongoDB, and responsive web design. I build modern, scalable, and user-friendly web applications that solve real-world problems. Always eager to learn new technologies, take on challenges, and contribute to meaningful projects. Believer in the philosophy: “Hard work beats talent when talent doesn’t work hard.
