@@ -5,6 +5,17 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Expert+%7C;Building+Scalable+Web+Solutions+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
+<br> <br><br>
+
+<div align="center">
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=md-abu-naim&label=Profile%20Views&color=00D9FF&style=for-the-badge)](https://github.com/shamimhossain515419)
+  [![GitHub Followers](https://img.shields.io/github/followers/md-abu-naim?style=for-the-badge&logo=github&color=00D9FF&labelColor=1a1a1a)](https://github.com/shamimhossain515419)
+  [![GitHub Stars](https://img.shields.io/github/stars/md-abu-naim?style=for-the-badge&logo=github&color=00D9FF&labelColor=1a1a1a)](https://github.com/shamimhossain515419)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/md-abu-naim?style=for-the-badge&logo=x&color=00D9FF&labelColor=1a1a1a)](https://twitter.com/shamimh33011212)
+  
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Mohammad Abu Naim</h1>
 <p align="center">Self-driven Full-Stack Web Developer specializing in React, Node.js, Express, MongoDB, and responsive web design. I build modern, scalable, and user-friendly web applications that solve real-world problems. Always eager to learn new technologies, take on challenges, and contribute to meaningful projects. Believer in the philosophy: “Hard work beats talent when talent doesn’t work hard.
