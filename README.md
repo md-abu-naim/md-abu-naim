@@ -29,25 +29,37 @@ Self-driven Full-Stack Web Developer specializing in React, Next.js, Node.js, Ex
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 <div align="center">
-  <table align="center">
+
+<table>
 <tr>
-<td width="50%">
-<img width="100%" src="https://streak-stats.demolab.com/?user=md-abu-naim&theme=blue-green&hide_border=true"/>
+<td width="50%" align="center">
+<img width="100%" src="https://streak-stats.demolab.com/?user=md-abu-naim&theme=blue-green&hide_border=true" />
 </td>
-<td width="50%">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=md-abu-naim&theme=holi"/>
+
+<td width="50%" align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=md-abu-naim&theme=holi" />
 </td>
 </tr>
 </table>
 
-  <br><br>
+<br>
 
-  <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-abu-naim&theme=holi" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-abu-naim&theme=holi" />
 
-  <br><br>
+<br><br>
 
-  <img width="42.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=md-abu-naim&theme=holi" />
-  <img width="42.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=md-abu-naim&theme=holi" />
+<table>
+<tr>
+<td width="50%" align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=md-abu-naim&theme=holi" />
+</td>
+
+<td width="50%" align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=md-abu-naim&theme=holi" />
+</td>
+</tr>
+</table>
+
 </div>
 
 <br>
