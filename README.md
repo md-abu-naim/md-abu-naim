@@ -72,32 +72,36 @@ Self-driven Full-Stack Web Developer specializing in React, Next.js, Node.js, Ex
 
 <p align="center">
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" /> 
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" /> 
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" /> 
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" /> 
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" /> 
-  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="50" /> 
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="50" /> 
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" />
+  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="50" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" />
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" />
 </p>
 
 <p align="center">
   <!-- Backend & Database -->
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" /> 
-  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="50" /> 
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" /> 
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="50" />
+  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="50" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" />
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" />
+  <img src="https://skillicons.dev/icons?i=neon" alt="Neon" width="50" />
 </p>
 
 <p align="center">
-  <!-- Tools & Others -->
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" /> 
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" /> 
-  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="50" /> 
-  <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="50" /> 
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" /> 
-  <img src="https://skillicons.dev/icons?i=postman" alt="Figma" width="50" /> 
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" />
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="50" />
+  <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="50" />
 </p>
 
 ---
