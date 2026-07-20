@@ -29,8 +29,16 @@ Self-driven Full-Stack Web Developer specializing in React, Next.js, Node.js, Ex
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=md-abu-naim&theme=blue-green&hide_border=true" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=md-abu-naim&theme=holi" />
+  <table align="center">
+<tr>
+<td width="50%">
+<img width="100%" src="https://streak-stats.demolab.com/?user=md-abu-naim&theme=blue-green&hide_border=true"/>
+</td>
+<td width="50%">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=md-abu-naim&theme=holi"/>
+</td>
+</tr>
+</table>
 
   <br><br>
 
