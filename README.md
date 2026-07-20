@@ -37,8 +37,8 @@ I'm <strong>Mohammad Abu Naim</strong>, a self-driven <strong>Full-Stack Web Dev
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=md-abu-naim&theme=blue-green&hide_border=true" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=md-abu-naim&theme=holi" />
+  <img width="42.5%" src="https://streak-stats.demolab.com/?user=md-abu-naim&theme=blue-green&hide_border=true" />
+  <img width="42.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=md-abu-naim&theme=holi" />
 
   <br><br>
 
