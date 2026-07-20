@@ -17,12 +17,20 @@
   
 </div>
 
-<h1 align="center">Hi 👋, I'm Mohammad Abu Naim</h1>
+<h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-Self-driven Full-Stack Web Developer specializing in React, Next.js, Node.js, Express, MongoDB, and responsive web design. I build modern, scalable, and user-friendly web applications that solve real-world problems. Always eager to learn new technologies, tackle challenges, and contribute to meaningful projects.  
-💡 Philosophy: “Hard work beats talent when talent doesn’t work hard.”
+I'm <strong>Mohammad Abu Naim</strong>, a self-driven <strong>Full-Stack Web Developer</strong> passionate about building modern, scalable, and user-friendly web applications. I enjoy transforming ideas into real-world solutions using JavaScript technologies and continuously improving my skills by exploring new tools and best practices.
 </p>
+
+- 🚀 Passionate **Full-Stack Web Developer** from **Bangladesh**
+- 💻 Specialized in **React.js, Next.js, Node.js, Express.js & TypeScript**
+- 🛠️ Experienced with **MongoDB, PostgreSQL, Prisma, Firebase & REST APIs**
+- 🌱 Currently exploring **Next.js App Router, Prisma ORM, PostgreSQL & System Design**
+- 🔭 Building modern, scalable and responsive web applications
+- 🤝 Open to **Remote Full-Stack Developer** opportunities
+- 📫 Reach me at **mohammadnaim.dev@gmail.com**
+- ⚡ *"Hard work beats talent when talent doesn't work hard."*
 
 ---
 
